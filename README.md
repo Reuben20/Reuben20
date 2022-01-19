@@ -8,9 +8,9 @@
 
 # 🥇 My skills (max. 5⭐)
 
+- Html ⭐⭐⭐⭐
+- Javascript ⭐⭐⭐
 - Nodejs ⭐⭐
 - Vue ⭐⭐
-- Javascript ⭐⭐⭐
-- Html ⭐⭐⭐⭐
 - Css ⭐⭐
 - Python ⭐
