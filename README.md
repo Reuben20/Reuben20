@@ -4,7 +4,7 @@
 
 # 🚀 I'm currently learning
 
-<p>Now improving my skills to get a nice tech job 🤗</p>
+<p>Now i'm improving my skills to get a nice tech job 🤗</p>
 
 # 🥇 My skills (max. 5⭐)
 
