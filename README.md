@@ -10,7 +10,7 @@
 
 - Html ⭐⭐⭐⭐
 - Javascript ⭐⭐⭐
-- Nodejs ⭐⭐
-- Vue ⭐⭐
+- Nodejs ⭐
+- Vue ⭐
 - Css ⭐⭐
-- Python ⭐
+- Python ⭐⭐
