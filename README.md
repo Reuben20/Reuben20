@@ -11,6 +11,5 @@
 - Html ⭐⭐⭐⭐
 - Javascript ⭐⭐⭐
 - Nodejs ⭐
-- Vue ⭐
 - Css ⭐⭐
 - Python ⭐⭐
